@@ -1,0 +1,11 @@
+.content-wrapper {
+  display: grid;
+  width: 1200px;
+  margin: 0 auto;
+  grid-template-areas: 
+  'hat hat'
+  'sidebar navbar'
+  'sidebar content';
+  grid-template-columns:3fr 9fr ;
+  grid-template-rows: 50px 30px 1fr ;
+}

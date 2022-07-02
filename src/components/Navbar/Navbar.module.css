@@ -1,0 +1,17 @@
+.navbar {
+    background-color: darkcyan;
+    grid-area: navbar;
+    display: flex;
+    
+}
+.item {
+    margin: 0 auto;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    color: gold;
+    text-decoration: none;
+}

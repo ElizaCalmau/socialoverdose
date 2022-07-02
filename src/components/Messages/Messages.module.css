@@ -1,0 +1,13 @@
+.messages{
+    display: grid;
+    grid-template-columns: 3fr 9fr; 
+    background-color: azure;
+
+
+}
+.friends{
+
+}
+.letters{
+
+}

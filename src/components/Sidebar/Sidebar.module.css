@@ -1,0 +1,7 @@
+.sidebar {
+    background-color: blue;
+    grid-area: sidebar;
+}
+.sidebar img {
+    width: 70px;
+}

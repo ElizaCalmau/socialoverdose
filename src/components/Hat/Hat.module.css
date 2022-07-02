@@ -1,0 +1,9 @@
+.hat {
+    background-color: aquamarine;
+    display: flex;
+    padding-left : 30px;
+    grid-area: hat;
+}
+.hat img {
+    width: 60px;
+}
